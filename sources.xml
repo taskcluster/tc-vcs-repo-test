@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<manifest>
+  <remote fetch="https://bitbucket.org/lightsofapollo/" name="test"/>
+  <project remote="test" revision="master" name="gittesting" path="gittesting"/>
+</manifest>

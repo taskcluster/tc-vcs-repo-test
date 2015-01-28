@@ -1,2 +1,3 @@
 # tc-vcs-repo-test
-Repo testing repository
+
+Dummy repo used in taskcluster-vcs tests.

@@ -3,5 +3,5 @@
   <remote fetch="https://github.com/lightsofapollo/" name="github"/>
   <remote fetch="https://bitbucket.org/lightsofapollo/" name="test"/>
   <project remote="test" revision="master" name="gittesting" path="gittesting"/>
-  <project remote="github" revision="branch" name="gittesting" path="github/git"/>
+  <project remote="github" revision="branch" name="repo-gittesting" path="github/git"/>
 </manifest>

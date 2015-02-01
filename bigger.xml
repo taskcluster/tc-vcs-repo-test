@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<manifest>
+  <remote fetch="https://gitub.com/lightsofapollo" name="github"/>
+  <include name="sources.xml" />
+  <project remote="github" revision="branch" name="gittesting" path="github/git"/>
+</manifest>

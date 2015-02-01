@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <manifest>
-  <remote fetch="https://gitub.com/lightsofapollo" name="github"/>
+  <remote fetch="https://gitub.com/lightsofapollo/" name="github"/>
   <remote fetch="https://bitbucket.org/lightsofapollo/" name="test"/>
   <project remote="test" revision="master" name="gittesting" path="gittesting"/>
   <project remote="github" revision="branch" name="gittesting" path="github/git"/>
